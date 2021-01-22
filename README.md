@@ -7,4 +7,4 @@ Statisics for Data Science.
 
 ### Visualizing Statistical Data
 [Code](https://github.com/cmbernardi/Statistics/blob/main/Data%20Visualisation%20.ipynb) |
-[Article](https://cmbernardi.medium.com/6-charts-you-need-to-know-for-your-data-visualization-bf6feb3e4fc0)
+[Article](https://cmbernardi.medium.com/top-5-charts-in-data-visualization-7d6c23b74b9a)
