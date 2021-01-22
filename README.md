@@ -1,5 +1,5 @@
 # Statistics
-Statisics for Data Science. 
+Statistics for Data Science. 
 
 ### Introduction to Analyzing Statistical Data
 [Code](https://github.com/cmbernardi/Statistics/blob/main/Statistics%20-%201.ipynb) | 
